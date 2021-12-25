@@ -1,0 +1,31 @@
+@import url("https://purvasheth.github.io/Ceres-Component-Lib/lib/styles.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btncart {
+  padding: 7px;
+  background-color: #4b5563;
+  color: white;
+  border-radius: 10px;
+}
+.btns {
+  padding: 7px;
+  background-color: #4b5563;
+  color: white;
+  border-radius: 10px;
+  margin: 10px;
+}
+.btns:hover {
+  cursor: pointer;
+}
+.incdec {
+  padding: 6px 9px;
+  border-radius: 10px;
+  margin: 4px;
+}
+.incdec:hover {
+  cursor: pointer;
+}
